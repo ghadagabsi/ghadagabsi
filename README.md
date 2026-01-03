@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi 👋 I'm Ghada
 
-<!--
-**ghadagabsi/ghadagabsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ Security Engineer  
+🔐 Focused on application security, authentication, and secure system design  
+🚀 Passionate about protecting systems and data
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Areas of Expertise
+- Application Security
+- Authentication & Authorization (JWT, RBAC)
+- Secure API Design
+- Vulnerability Analysis
+- Logging & Monitoring
+- Secure Coding Practices
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Go, PHP, Java
+- **Frameworks:** Spring Boot, Symfony
+- **Databases:** MySQL
+- **Security:** JWT, OWASP Top 10
+- **Tools:** Git, Postman, Docker, Linux
+
+---
+
+## 🔍 What I’m Working On
+- Securing backend applications
+- Implementing robust authentication systems
+- Improving system resilience and access control
+
+---
+
+
+## 📫 Contact
+- mail: gabsighada2@gmail.com
+
+✨ *Security is not a feature, it’s a mindset.*
